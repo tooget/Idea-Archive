@@ -13,6 +13,7 @@ Archive of Ideas.
  - Faster PoW Hashpuzzle Solver
  - Fund Rasing
    - P2P
+ - Ethereum SmartContract/dApp Ranking
 
 ## Uncategorized
  - Auto-detecting goods and tagging direct payment on SNS picture/touch.
