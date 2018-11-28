@@ -9,7 +9,7 @@ Archive of Ideas.
    - Fundamental, Core algorithm
  - Corporate Governance
    - 주식양수도 거래, 주주명부, 주주총회, 배당금 배분, 비상장 주식 투자, P2P 스마트 컨트랙트 펀딩 등
-     - [Fito Team Project / dApp Prototype](https://github.com/tooget/Fito)
+     - [Fito / dApp Project, Prototype](https://github.com/tooget/Fito)
  - Faster PoW Hashpuzzle Solver
  - Fund Rasing
    - P2P
