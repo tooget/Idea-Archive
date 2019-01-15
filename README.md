@@ -12,8 +12,14 @@ Archive of Ideas.
      - [Fito / dApp Project, Prototype](https://github.com/tooget/Fito)
  - Faster PoW Hashpuzzle Solver
  - Fund Rasing
-   - P2P
+   - P2P/Crowdfunding
+     - http://weifund.io
  - Ethereum SmartContract/dApp Ranking
+     - https://dappradar.com
+     - https://www.dapp.com/ranking
+     - https://dappstore.link/rankings
+     - https://www.stateofthedapps.com/rankings
 
 ## Uncategorized
  - Auto-detecting goods and tagging direct payment on SNS picture/touch.
+ - Managing Attendance and Certificate
