@@ -19,7 +19,10 @@ Archive of Ideas.
      - https://www.dapp.com/ranking
      - https://dappstore.link/rankings
      - https://www.stateofthedapps.com/rankings
+ - Education : Managing Attendance and Certificate
+ - Election
+ - Media Platform without fake news/replies
+ - Donation
 
 ## Uncategorized
  - Auto-detecting goods and tagging direct payment on SNS picture/touch.
- - Managing Attendance and Certificate
