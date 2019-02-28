@@ -1,4 +1,4 @@
-# self-study-in-secure
+# self-study-in-private
 
-## Events
-### [AWSKRUG #architecture 소모임](https://github.com/tooget/self-study-in-secure/blob/master/doc/events/awskrug_architecture.md)
+## MeetUp
+#### [AWSKRUG #architecture 소모임](https://github.com/tooget/self-study-in-private/blob/master/doc/meetup/awskrug-architecture.md)

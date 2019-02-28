@@ -1,5 +1,32 @@
 # [AWSKRUG #architecture 공식문서](https://github.com/awskrug/architecture-group)
 
+
+
+## AWSKRUG #architecture 소모임 - 19번째 모임 (2월 28일)
+
+### 발표 세션
+ - (선데이토즈) 권민재: "IDC에서 AWS로 Redis 데이터 이전하기"
+ - (VCNC) 김태호: "서비스 중단 없이 Amazon EKS로 옮긴 이야기"
+
+### 세션 메모
+#### (VCNC) 김태호: "서비스 중단 없이 Amazon EKS로 옮긴 이야기"
+1. 타다 서비스, 내부 클러스터에서 EKS 서울 나오자마자 바로 이전함.
+2. 아키텍쳐
+   - 클라이언트 ~ 프런트+백엔드 서버(EKS) ~ 레디스/오로라(MySQL)
+   - 앱 클라이언트 위치 정보 : 클라이언트 서버 ~ gRPC ~ 백엔드 서버(EKS) <-> Elasticache 레디스 PubSub <-> 백엔드 서버(EKS)
+   - 트랜잭션 처리 : 클라이언트 서버 ~ SQS ~ 백엔드 서버(EKS) ~ RDS Aurora(MySQL)
+   - NLB + k8s 로드밸런싱
+   - Route53 weight-based B/G deployment : EC2 k8s cluster -> EKS
+
+#### (선데이토즈) 권민재: "IDC에서 AWS로 Redis 데이터 이전하기"
+1. IDC 계약 만료로 서비스를 AWS로 이전한 케이스
+2. 개인 [블로그 글](https://mingrammer.com/redis-migration/)로 공개함
+3. 키워드
+   - Redis Multimaster / Replication / Migration
+   - SSH Turneling
+   - 병렬 데이터 마이그레이션 스크립트(Python) e.g. Golang
+
+
 ## AWSKRUG #architecture 소모임 - 18번째 모임 (1월 31일)
 
 ### 발표 세션
