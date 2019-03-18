@@ -27,3 +27,5 @@ Archive of Ideas.
 
 ## Uncategorized
  - Auto-detecting goods and tagging direct payment on SNS picture/touch.
+ - Data Refinition with Excel
+ - Standards 3rd Party of Applying process for an organization
