@@ -28,4 +28,5 @@ Archive of Ideas.
 ## Uncategorized
  - Auto-detecting goods and tagging direct payment on SNS picture/touch.
  - Data Refinition with Excel
- - Standards 3rd Party of Applying process for an organization
+ - Standard 3rd Party Web Application of Applying process for an Organization
+ - A Study of [ABCDE paradigms](http://blockchain1000.org/2019/history.html) hands-on and Understand of the meanings
