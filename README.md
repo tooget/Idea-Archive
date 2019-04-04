@@ -30,3 +30,4 @@ Archive of Ideas.
  - A Study of [ABCDE paradigms](http://blockchain1000.org/2019/history.html) hands-on and Understand of the meanings
  - Legal Data Refinition to Graph Structure
    - [Openlaw - A legal data processing framework open-source project for data pipeline, search, analysis and NLP](https://github.com/tooget/Openlaw)
+ - Git study
