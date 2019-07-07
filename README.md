@@ -25,9 +25,12 @@ Archive of Ideas.
 
 ## Uncategorized
  - Auto-detecting goods and tagging direct payment on SNS picture/touch.
- - Data Refinition with Excel
+ - Data Auto Searching & Refinition with Excel
  - Standard 3rd Party Web Application of Applying process for an Organization
  - A Study of [ABCDE paradigms](http://blockchain1000.org/2019/history.html) hands-on and Understand of the meanings
  - Legal Data Refinition to Graph Structure
    - [Openlaw - A legal data processing framework open-source project for data pipeline, search, analysis and NLP](https://github.com/tooget/Openlaw)
- - Git study
+ - Web-based/Cloud-based Asset Pricing Service
+ - Web-based/Cloud-based Insurerance Pricing Service
+ - Web-based General Attendance System
+   - [SmartCheck](https://github.com/yunsu246/simple-smart-check)
