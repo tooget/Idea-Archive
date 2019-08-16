@@ -23,14 +23,21 @@ Archive of Ideas.
  - Media Platform without fake news/replies
  - Donation
 
-## Uncategorized
- - Auto-detecting goods and tagging direct payment on SNS picture/touch.
+## RPA
  - Data Auto Searching & Refinition with Excel
- - Standard 3rd Party Web Application of Applying process for an Organization
- - A Study of [ABCDE paradigms](http://blockchain1000.org/2019/history.html) hands-on and Understand of the meanings
- - Legal Data Refinition to Graph Structure
-   - [Openlaw - A legal data processing framework open-source project for data pipeline, search, analysis and NLP](https://github.com/tooget/Openlaw)
- - Web-based/Cloud-based Asset Pricing Service
- - Web-based/Cloud-based Insurerance Pricing Service
  - Web-based General Attendance System
    - [SmartCheck](https://github.com/yunsu246/simple-smart-check)
+ - Standard 3rd Party Web Application of Applying process for an Organization
+
+## Payments
+ - Auto-detecting goods and tagging direct payment on SNS picture/touch. (e.g. a payment system like coupang, aliexpress)
+
+## Data / API
+ - Web-based/Cloud-based Asset Pricing Service
+ - Web-based/Cloud-based Insurerance Pricing Service
+ - Legal Data Refinition(Graph Data Structure)
+   - [Openlaw - A legal data processing framework open-source project for data pipeline, search, analysis and NLP](https://github.com/tooget/Openlaw)
+   
+ ## Resources Detection
+  - Searching and Filtering Valuable Domains
+  - SNS Personal Classification with users' metadata(feeds, texts, photos(e.g. how many peoples are taken), hashtags) to Estimate their Purchasing power
