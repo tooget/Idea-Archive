@@ -11,4 +11,4 @@
      - Another tutorials:     https://github.com/MicrosoftDocs/mslearn-perform-basic-data-transformation-in-azure-databricks/blob/master/DBC/05.1-Basic-ETL.dbc?raw=true
      
 # Azure Fundamentals
- - [X] AZ-900
+ - [X] AZ-900 / 2020-02-08
