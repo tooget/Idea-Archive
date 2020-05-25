@@ -1,4 +1,6 @@
 # Data Engineer
+ - [ ] DP-200
+ - [ ] DP-201
 ## DP-200
  - Reference: https://github.com/MicrosoftLearning/DP-200JA-Implementing-an-Azure-Data-Solution
    - Following the https://github.com/MicrosoftLearning/DP-200JA-Implementing-an-Azure-Data-Solution/tree/master/Instructions files in order.
@@ -9,5 +11,4 @@
      - Another tutorials:     https://github.com/MicrosoftDocs/mslearn-perform-basic-data-transformation-in-azure-databricks/blob/master/DBC/05.1-Basic-ETL.dbc?raw=true
      
 # Azure Fundamentals
-## AZ-900
  - [X] AZ-900
