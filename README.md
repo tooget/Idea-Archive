@@ -11,7 +11,7 @@
      - Another tutorials:     https://github.com/MicrosoftDocs/mslearn-perform-basic-data-transformation-in-azure-databricks/blob/master/DBC/05.1-Basic-ETL.dbc?raw=true
 
 # [Solutions Architect Expert](https://docs.microsoft.com/ko-kr/learn/certifications/azure-solutions-architect)
- - [ ] [AZ-300](https://docs.microsoft.com/ko-kr/learn/certifications/exams/az-300)
+ - [ ] [AZ-300](https://docs.microsoft.com/ko-kr/learn/certifications/exams/az-300) / 2020-06-15
 
 # [Database Administrator Associate](https://docs.microsoft.com/ko-kr/learn/certifications/azure-database-administrator-associate)
  - [ ] [DP-300](https://docs.microsoft.com/ko-kr/learn/certifications/exams/dp-300) / 2020-06-22
