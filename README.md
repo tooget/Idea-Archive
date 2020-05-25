@@ -12,10 +12,10 @@
 
 # [Solutions Architect Expert](https://docs.microsoft.com/ko-kr/learn/certifications/azure-solutions-architect)
  - [ ] [AZ-300](https://docs.microsoft.com/ko-kr/learn/certifications/exams/az-300) / 2020-06-15
+ - [ ] [AZ-301](https://docs.microsoft.com/ko-kr/learn/certifications/exams/az-301)
 
 # [Database Administrator Associate](https://docs.microsoft.com/ko-kr/learn/certifications/azure-database-administrator-associate)
  - [ ] [DP-300](https://docs.microsoft.com/ko-kr/learn/certifications/exams/dp-300) / 2020-06-22
- - [ ] [DB-301](https://docs.microsoft.com/ko-kr/learn/certifications/exams/az-301)
 
 # [Developer Associate](https://docs.microsoft.com/ko-kr/learn/certifications/azure-developer)
  - [ ] [AZ-204](https://docs.microsoft.com/ko-kr/learn/certifications/exams/az-204) / 2020-06-19
