@@ -29,5 +29,5 @@
 # [AI Fundamentals](https://docs.microsoft.com/ko-kr/learn/certifications/azure-ai-fundamentals)
  - [ ] [AI-900](https://docs.microsoft.com/ko-kr/learn/certifications/exams/ai-900)
 
-# [Azure Fundamentals](https://docs.microsoft.com/ko-kr/learn/certifications/azure-fundamentals)
+# [Fundamentals](https://docs.microsoft.com/ko-kr/learn/certifications/azure-fundamentals)
  - [X] [AZ-900](https://docs.microsoft.com/ko-kr/learn/certifications/exams/az-900) / 2020-02-08
