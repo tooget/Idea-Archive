@@ -1,6 +1,6 @@
-# Data Engineer Associate
- - [ ] DP-200
- - [ ] DP-201
+# [Data Engineer Associate](https://docs.microsoft.com/ko-kr/learn/certifications/azure-data-engineer)
+ - [ ] [DP-200](https://docs.microsoft.com/ko-kr/learn/certifications/exams/dp-200)
+ - [ ] [DP-201](https://docs.microsoft.com/ko-kr/learn/certifications/exams/dp-201)
 ## DP-200
  - Reference: https://github.com/MicrosoftLearning/DP-200JA-Implementing-an-Azure-Data-Solution
    - Following the https://github.com/MicrosoftLearning/DP-200JA-Implementing-an-Azure-Data-Solution/tree/master/Instructions files in order.
@@ -10,17 +10,20 @@
      - App Registration(DLAccess) and Databricks Access via **DLAccess** Auth(`DLAccess Application(Client) ID`, `DLAccess Directory(Tenant) ID`, `DL Access key(authentication-id)`) → **Resource Group IAM**(`Role assignments` to DLAccess) → **Storage Account(with Hierarchy/ADLS option)** → Container
      - Another tutorials:     https://github.com/MicrosoftDocs/mslearn-perform-basic-data-transformation-in-azure-databricks/blob/master/DBC/05.1-Basic-ETL.dbc?raw=true
 
-# Database Administrator Associate
- - [ ] DP-300
+# [Database Administrator Associate](https://docs.microsoft.com/ko-kr/learn/certifications/azure-database-administrator-associate)
+ - [ ] [DP-300](https://docs.microsoft.com/ko-kr/learn/certifications/exams/dp-300)
 
-# Developer Associate
- - [ ] AZ-204
+# [Developer Associate](https://docs.microsoft.com/ko-kr/learn/certifications/azure-developer)
+ - [ ] [AZ-204](https://docs.microsoft.com/ko-kr/learn/certifications/exams/az-204)
 
-# AI Engineer Associate
- - [ ] AI-100
+# [AI Engineer Associate](https://docs.microsoft.com/ko-kr/learn/certifications/azure-ai-engineer)
+ - [ ] [AI-100](https://docs.microsoft.com/ko-kr/learn/certifications/exams/ai-100)
 
-# Data Fundamentals
- - [ ] DP-900
+# [Data Fundamentals](https://docs.microsoft.com/ko-kr/learn/certifications/azure-data-fundamentals)
+ - [ ] [DP-900](https://docs.microsoft.com/ko-kr/learn/certifications/exams/dp-900)
 
-# Azure Fundamentals
- - [X] AZ-900 / 2020-02-08
+# [AI Fundamentals](https://docs.microsoft.com/ko-kr/learn/certifications/azure-ai-fundamentals)
+ - [ ] [AI-900](https://docs.microsoft.com/ko-kr/learn/certifications/exams/ai-900)
+
+# [Azure Fundamentals](https://docs.microsoft.com/ko-kr/learn/certifications/azure-fundamentals)
+ - [X] [AZ-900](https://docs.microsoft.com/ko-kr/learn/certifications/exams/az-900) / 2020-02-08
