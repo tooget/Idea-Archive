@@ -23,6 +23,9 @@
 # [AI Engineer Associate](https://docs.microsoft.com/ko-kr/learn/certifications/azure-ai-engineer)
  - [ ] [AI-100](https://docs.microsoft.com/ko-kr/learn/certifications/exams/ai-100) / 2020-06-04
 
+# [Data Scientist Associate](https://docs.microsoft.com/ko-kr/learn/certifications/azure-data-scientist)
+ - [ ] [DP-100](https://docs.microsoft.com/ko-kr/learn/certifications/exams/dp-100)
+
 # [Data Fundamentals](https://docs.microsoft.com/ko-kr/learn/certifications/azure-data-fundamentals)
  - [ ] [DP-900](https://docs.microsoft.com/ko-kr/learn/certifications/exams/dp-900)
 
