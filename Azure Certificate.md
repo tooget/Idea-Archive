@@ -11,13 +11,26 @@
      - Another tutorials:     https://github.com/MicrosoftDocs/mslearn-perform-basic-data-transformation-in-azure-databricks/blob/master/DBC/05.1-Basic-ETL.dbc?raw=true
    - dp-200-04_instructions.md: Create Cosmos DB(SQL(DocumentBased)) & SQL-like Query
    - dp-200-05_instructions.md: Create Synapse Analytics & Query & Load Data from Storage Account(ALDS) using PolyBase
-```sql
+   - ```sql
 CREATE EXTERNAL DATA SOURCE AzureStorage
 WITH (
     TYPE = HADOOP,
     LOCATION = 'abfs://data@awdlsstudxx.dfs.core.windows.net',
     CREDENTIAL = AzureStorageCredential
 );
+```
+   - dp-200-06_instructions.md: Create Event Hubs, Stream Analytics & SQL-like Query on Stream Data Window
+     - Input should be json and have keys to be queried.
+     - Use PolyBase to save results.
+     - ```sql
+SELECT System.Timestamp AS WindowEnd, COUNT(*) AS FraudulentCalls
+INTO "PhoneCallRefData"
+FROM "PhoneStream" CS1 TIMESTAMP BY CallRecTime
+JOIN "PhoneStream" CS2 TIMESTAMP BY CallRecTime
+ON CS1.CallingIMSI = CS2.CallingIMSI
+AND DATEDIFF(ss, CS1, CS2) BETWEEN 1 AND 5
+WHERE CS1.SwitchNum != CS2.SwitchNum
+GROUP BY TumblingWindow(Duration(second, 1))
 ```
 
 # [Solutions Architect Expert](https://docs.microsoft.com/ko-kr/learn/certifications/azure-solutions-architect)
