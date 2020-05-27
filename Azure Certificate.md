@@ -1,8 +1,7 @@
 # [Data Engineer Associate](https://docs.microsoft.com/ko-kr/learn/certifications/azure-data-engineer)
  - [ ] [DP-200](https://docs.microsoft.com/ko-kr/learn/certifications/exams/dp-200)
  - [ ] [DP-201](https://docs.microsoft.com/ko-kr/learn/certifications/exams/dp-201)
-## DP-200
- - Reference: https://github.com/MicrosoftLearning/DP-200JA-Implementing-an-Azure-Data-Solution
+## DP-200 : https://github.com/MicrosoftLearning/DP-200JA-Implementing-an-Azure-Data-Solution, https://tsfb.learnondemand.net/
  - Following the https://github.com/MicrosoftLearning/DP-200JA-Implementing-an-Azure-Data-Solution/tree/master/Instructions files in order.
  - dp-200-01_instructions.md: 
  - dp-200-02_instructions.md: Create Storage Account, Storage Account(with Hierarchy/ADLS option)
