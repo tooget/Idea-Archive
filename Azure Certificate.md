@@ -48,6 +48,7 @@ GROUP BY TumblingWindow(Duration(second, 1))
 
 # [Data Scientist Associate](https://docs.microsoft.com/ko-kr/learn/certifications/azure-data-scientist)
  - [ ] [DP-100](https://docs.microsoft.com/ko-kr/learn/certifications/exams/dp-100)
+## DP-100 : https://github.com/MicrosoftLearning/DP-100JA-Designing-and-Implementing-a-Data-Science-Solution
 
 # [Data Fundamentals](https://docs.microsoft.com/ko-kr/learn/certifications/azure-data-fundamentals)
  - [ ] [DP-900](https://docs.microsoft.com/ko-kr/learn/certifications/exams/dp-900)
