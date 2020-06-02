@@ -34,7 +34,7 @@ GROUP BY TumblingWindow(Duration(second, 1))
  - dp-200-07_instructions.md: Create DataFactory & Run ETL Pipeline to insert results in Synapse Analytics
 
 # [Solutions Architect Expert](https://docs.microsoft.com/ko-kr/learn/certifications/azure-solutions-architect)
- - [ ] [AZ-300](https://docs.microsoft.com/ko-kr/learn/certifications/exams/az-300) / 2020-06-15
+ - [ ] [AZ-300](https://docs.microsoft.com/ko-kr/learn/certifications/exams/az-300) / 2020-06-15, 13:15~, online
  - [ ] [AZ-301](https://docs.microsoft.com/ko-kr/learn/certifications/exams/az-301)
 
 # [Database Administrator Associate](https://docs.microsoft.com/ko-kr/learn/certifications/azure-database-administrator-associate)
