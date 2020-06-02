@@ -31,7 +31,9 @@ AND DATEDIFF(ss, CS1, CS2) BETWEEN 1 AND 5
 WHERE CS1.SwitchNum != CS2.SwitchNum
 GROUP BY TumblingWindow(Duration(second, 1))
 ```
- - dp-200-07_instructions.md: Create DataFactory & Run ETL Pipeline to insert results in Synapse Analytics
+ - dp-200-07_instructions.md: Create DataFactory & Run ETL Pipeline to insert results in Synapse Analytics201
+ ## DP-201 : https://github.com/MicrosoftLearning/DP-201JA-Designing-an-Azure-Data-Solution
+
 
 # [Solutions Architect Expert](https://docs.microsoft.com/ko-kr/learn/certifications/azure-solutions-architect)
  - [ ] [AZ-300](https://docs.microsoft.com/ko-kr/learn/certifications/exams/az-300) / 2020-06-15, 13:15~, online
