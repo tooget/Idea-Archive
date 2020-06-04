@@ -46,7 +46,7 @@ GROUP BY TumblingWindow(Duration(second, 1))
  - [ ] [AZ-204](https://docs.microsoft.com/ko-kr/learn/certifications/exams/az-204) / 2020-06-19, 13:00~, online
 
 # [AI Engineer Associate](https://docs.microsoft.com/ko-kr/learn/certifications/azure-ai-engineer)
- - [ ] [AI-100](https://docs.microsoft.com/ko-kr/learn/certifications/exams/ai-100) / 2020-06-04, 14:00~, online
+ - [X] [AI-100](https://docs.microsoft.com/ko-kr/learn/certifications/exams/ai-100) / 2020-06-04, 14:00~, online / ~2022-06-04
 
 # [Data Scientist Associate](https://docs.microsoft.com/ko-kr/learn/certifications/azure-data-scientist)
  - [ ] [DP-100](https://docs.microsoft.com/ko-kr/learn/certifications/exams/dp-100)
