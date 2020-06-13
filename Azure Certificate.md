@@ -1,6 +1,6 @@
 # [Data Engineer Associate](https://docs.microsoft.com/ko-kr/learn/certifications/azure-data-engineer)
  - [X] [DP-200](https://docs.microsoft.com/ko-kr/learn/certifications/exams/dp-200) / 2020-06-11, 14:15~, online
- - [X] [DP-201](https://docs.microsoft.com/ko-kr/learn/certifications/exams/dp-201) / 2020-06-13, 15:00~, 渋谷 / ~2022-06-14
+ - [X] [DP-201](https://docs.microsoft.com/ko-kr/learn/certifications/exams/dp-201) / 2020-06-13, 15:00~, 渋谷 / ~2022-06-13
 ## DP-200 : https://github.com/MicrosoftLearning/DP-200JA-Implementing-an-Azure-Data-Solution, https://tsfb.learnondemand.net/
  - Following the https://github.com/MicrosoftLearning/DP-200JA-Implementing-an-Azure-Data-Solution/tree/master/Instructions files in order.
  - dp-200-01_instructions.md: 
