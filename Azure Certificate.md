@@ -49,7 +49,7 @@ GROUP BY TumblingWindow(Duration(second, 1))
  - [X] [AI-100](https://docs.microsoft.com/ko-kr/learn/certifications/exams/ai-100) / 2020-06-04, 14:00~, online / ~2022-06-04
 
 # [Data Scientist Associate](https://docs.microsoft.com/ko-kr/learn/certifications/azure-data-scientist)
- - [ ] [DP-100](https://docs.microsoft.com/ko-kr/learn/certifications/exams/dp-100)
+ - [x] [DP-100](https://docs.microsoft.com/ko-kr/learn/certifications/exams/dp-100) / 2020-08-14
 ## DP-100 : https://github.com/MicrosoftLearning/DP-100JA-Designing-and-Implementing-a-Data-Science-Solution, https://github.com/MicrosoftLearning/DP100 
 
 # [Data Fundamentals](https://docs.microsoft.com/ko-kr/learn/certifications/azure-data-fundamentals)
