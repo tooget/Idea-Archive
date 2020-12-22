@@ -53,10 +53,10 @@ GROUP BY TumblingWindow(Duration(second, 1))
 ## DP-100 : https://github.com/MicrosoftLearning/DP-100JA-Designing-and-Implementing-a-Data-Science-Solution, https://github.com/MicrosoftLearning/DP100 
 
 # [Data Fundamentals](https://docs.microsoft.com/ko-kr/learn/certifications/azure-data-fundamentals)
- - [ ] [DP-900](https://docs.microsoft.com/ko-kr/learn/certifications/exams/dp-900)
+ - [x] [DP-900](https://docs.microsoft.com/ko-kr/learn/certifications/exams/dp-900)
 
 # [AI Fundamentals](https://docs.microsoft.com/ko-kr/learn/certifications/azure-ai-fundamentals)
- - [ ] [AI-900](https://docs.microsoft.com/ko-kr/learn/certifications/exams/ai-900)
+ - [x] [AI-900](https://docs.microsoft.com/ko-kr/learn/certifications/exams/ai-900)
 
 # [Fundamentals](https://docs.microsoft.com/ko-kr/learn/certifications/azure-fundamentals)
  - [X] [AZ-900](https://docs.microsoft.com/ko-kr/learn/certifications/exams/az-900) / 2020-02-08
