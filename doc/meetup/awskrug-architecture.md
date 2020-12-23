@@ -5,11 +5,11 @@
 ## AWSKRUG #architecture 소모임 - 19번째 모임 (2월 28일)
 
 ### 발표 세션
- - (선데이토즈) 권민재: "IDC에서 AWS로 Redis 데이터 이전하기"
- - (VCNC) 김태호: "서비스 중단 없이 Amazon EKS로 옮긴 이야기"
+ - (선데이토즈) "IDC에서 AWS로 Redis 데이터 이전하기"
+ - (VCNC) "서비스 중단 없이 Amazon EKS로 옮긴 이야기"
 
 ### 세션 메모
-#### (VCNC) 김태호: "서비스 중단 없이 Amazon EKS로 옮긴 이야기"
+#### "서비스 중단 없이 Amazon EKS로 옮긴 이야기"
 1. 타다 서비스, 내부 클러스터에서 EKS 서울 나오자마자 바로 이전함.
 2. 아키텍쳐
    - 클라이언트 ~ 프런트+백엔드 서버(EKS) ~ 레디스/오로라(MySQL)
@@ -18,7 +18,7 @@
    - NLB + k8s 로드밸런싱
    - Route53 weight-based B/G deployment : EC2 k8s cluster -> EKS
 
-#### (선데이토즈) 권민재: "IDC에서 AWS로 Redis 데이터 이전하기"
+#### "IDC에서 AWS로 Redis 데이터 이전하기"
 1. IDC 계약 만료로 서비스를 AWS로 이전한 케이스
 2. 개인 [블로그 글](https://mingrammer.com/redis-migration/)로 공개함
 3. 키워드
@@ -30,11 +30,11 @@
 ## AWSKRUG #architecture 소모임 - 18번째 모임 (1월 31일)
 
 ### 발표 세션
- - (뒤끝) 권오현 CEO: "BaaS 아키텍트의 고민"
- - (OSCI) 김세연: "DevOps 최고의 친구 AWS"
+ - (뒤끝) "BaaS 아키텍트의 고민"
+ - (OSCI) "DevOps 최고의 친구 AWS"
 
 ### 세션 메모
-#### (뒤끝) 권오현 CEO: "BaaS 아키텍트의 고민"
+#### (뒤끝) "BaaS 아키텍트의 고민"
 1. thebackend.io
 2. 계층
    - 로그 레이어
@@ -66,7 +66,7 @@
    - Infra isolation with NLB
    - Aurora Serverless scaliablity : Scale-up/down, not in/out
 
-#### (OSCI) 김세연: "DevOps 최고의 친구 AWS"
+#### (OSCI) "DevOps 최고의 친구 AWS"
 1. 기존 대기업 업체의 운영 효율화 컨설팅 등, www.osci.kr
 2. Atlassian 프리미엄 파트너, 기술영업
 3. DevOps 분업 및 조직 문화에 대한 발표
