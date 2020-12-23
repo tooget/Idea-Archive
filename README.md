@@ -1,4 +1,4 @@
-# self-study-in-private
+# self-study-notes
 
 ## Books
 #### [블록체인 무엇인가?](https://github.com/tooget/self-study-in-private/blob/master/doc/books/블록체인무엇인가_ISBN_979-11-88612-92-5.md)
