@@ -10,9 +10,11 @@ Archive of Ideas.
    - Fundamental, Core algorithm
  - Corporate Governance
    - 주식양수도 거래 / 주주명부 / 비상장 주식 투자
-     - [Fito - DApp Project, Prototype](https://github.com/tooget/Fito)
+     - ~~[Fito - DApp Project, Prototype](https://github.com/tooget/Fito)~~
+     - https://www.ustockplus.com/
    - 주주총회
    - 배당금 배분
+   - 계약
  - Faster PoW Hashpuzzle Solver
  - Fund Rasing
    - P2P/Crowdfunding, P2P 스마트 컨트랙트 펀딩 등(e.g. [WeiFund](http://weifund.io))
@@ -25,6 +27,7 @@ Archive of Ideas.
 
 ## RPA
  - Data Auto Searching & Refinition with Excel
+   - Searching autumation from multiple search engines 
  - Web-based General Attendance System
    - [SmartCheck](https://github.com/yunsu246/simple-smart-check)
  - Standard 3rd Party Web Application of Applying process for an Organization
@@ -41,3 +44,9 @@ Archive of Ideas.
  ## Resources Detection
   - Searching and Filtering Valuable Domains
   - SNS Personal Classification with users' metadata(feeds, texts, photos(e.g. how many peoples are taken), hashtags) to Estimate their Purchasing power
+ 
+ 
+ ## Platform Metadata Integration
+  - Personal Asset(e.g. posting, blogs, comments, reviews, opinions, etg) Integration
+  - Personal Data Metricality
+  - MyData agreement integration dashboard service for general internet services
