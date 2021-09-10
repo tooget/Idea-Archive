@@ -50,3 +50,7 @@ Archive of Ideas.
   - Personal Asset(e.g. posting, blogs, comments, reviews, opinions, etg) Integration
   - Personal Data Metricality
   - MyData agreement integration dashboard service for general internet services
+
+
+ ## Financial Valuation
+  - API SaaS for Monte Carlo simulation valuation
