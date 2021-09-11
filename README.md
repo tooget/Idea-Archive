@@ -54,3 +54,7 @@ Archive of Ideas.
 
  ## Financial Valuation
   - API SaaS for Monte Carlo simulation valuation
+
+ ## Reputation Visualization
+  - Lawyer/Legal Office Categorization and tracing their hisotry
+  - Medical Doctor/Hospital Categorization and tracing their hisotry
