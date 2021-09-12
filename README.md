@@ -35,26 +35,29 @@ Archive of Ideas.
 ## Payments
  - Auto-detecting goods and tagging direct payment on SNS picture/touch. (e.g. a payment system like coupang, aliexpress)
 
-## Data / API
- - Web-based/Cloud-based Asset Pricing Service
- - Web-based/Cloud-based Insurerance Pricing Service
+## Resources Detection
+ - Searching and Filtering Valuable Domains
+ - SNS Personal Classification with users' metadata(feeds, texts, photos(e.g. how many peoples are taken), hashtags) to Estimate their Purchasing power
+ 
+ 
+## Platform Metadata Integration
+ - Personal Asset(e.g. posting, blogs, comments, reviews, opinions, etg) Integration
+ - Personal Data Metricality
+ - MyData agreement integration dashboard service for general internet services
+
+
+## Financial Valuation
+ - API SaaS for Monte Carlo simulation valuation
+   - Web-based/Cloud-based Asset Pricing Service
+   - Web-based/Cloud-based Insurerance Pricing Service
+
+## Reputation Visualization
+ - Lawyer/Legal Office Categorization and tracing their history
+ - Medical Doctor/Hospital Categorization and tracing their history
+ - Corporates' audit data integration and visualization (Optimize manual-collecting process)
+   - Journal Entry Standardization
+
+## Digital Divide
  - Legal Data Refinition(Graph Data Structure)
    - [Openlaw - A legal data processing framework open-source project for data pipeline, search, analysis and NLP](https://github.com/tooget/Openlaw)
-   
- ## Resources Detection
-  - Searching and Filtering Valuable Domains
-  - SNS Personal Classification with users' metadata(feeds, texts, photos(e.g. how many peoples are taken), hashtags) to Estimate their Purchasing power
- 
- 
- ## Platform Metadata Integration
-  - Personal Asset(e.g. posting, blogs, comments, reviews, opinions, etg) Integration
-  - Personal Data Metricality
-  - MyData agreement integration dashboard service for general internet services
 
-
- ## Financial Valuation
-  - API SaaS for Monte Carlo simulation valuation
-
- ## Reputation Visualization
-  - Lawyer/Legal Office Categorization and tracing their hisotry
-  - Medical Doctor/Hospital Categorization and tracing their hisotry
