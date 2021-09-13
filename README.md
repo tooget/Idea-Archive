@@ -61,3 +61,5 @@ Archive of Ideas.
  - Legal Data Refinition(Graph Data Structure)
    - [Openlaw - A legal data processing framework open-source project for data pipeline, search, analysis and NLP](https://github.com/tooget/Openlaw)
 
+## Remote co-work efficiency
+ - Co-work ticket platform between different companies each other (Like cross-over JIRA concept)
