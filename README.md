@@ -62,6 +62,7 @@ Archive of Ideas.
    - [Openlaw - A legal data processing framework open-source project for data pipeline, search, analysis and NLP](https://github.com/tooget/Openlaw)
  - Free cellphone
    - using cloud satellite service
+   - making device compact and moneytizing as an ad-platform
 
 ## Remote co-work efficiency
  - Co-work ticket platform between different companies each other (Like cross-over JIRA concept)
