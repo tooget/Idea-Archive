@@ -63,6 +63,7 @@ Archive of Ideas.
  - Free cellphone
    - using cloud satellite service
    - making device compact and moneytizing as an ad-platform
+ - Accounting Principles Search Engine
 
 ## Remote co-work efficiency
  - Co-work ticket platform between different companies each other (Like cross-over JIRA concept)
