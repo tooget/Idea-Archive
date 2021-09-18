@@ -56,7 +56,7 @@ Archive of Ideas.
  - Medical Doctor/Hospital Categorization and tracing their history
  - Corporates' financial report audit data integration and visualization (Optimize manual-collecting process)
    - Journal Entry Standardization
- - Financial Repory Standardization
+ - Global Financial Report Standardization
    - Using XBRL
 
 ## Digital Divide
