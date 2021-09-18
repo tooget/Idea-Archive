@@ -54,8 +54,10 @@ Archive of Ideas.
 ## Reputation Visualization
  - Lawyer/Legal Office Categorization and tracing their history
  - Medical Doctor/Hospital Categorization and tracing their history
- - Corporates' audit data integration and visualization (Optimize manual-collecting process)
+ - Corporates' financial report audit data integration and visualization (Optimize manual-collecting process)
    - Journal Entry Standardization
+ - Financial Repory Standardization
+   - Using XBRL
 
 ## Digital Divide
  - Legal Data Refinition(Graph Data Structure)
