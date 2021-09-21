@@ -51,13 +51,14 @@ Archive of Ideas.
    - Web-based/Cloud-based Asset Pricing Service
    - Web-based/Cloud-based Insurerance Pricing Service
 
-## Reputation Visualization
+## Reputation/Trust Visualization
  - Lawyer/Legal Office Categorization and tracing their history
  - Medical Doctor/Hospital Categorization and tracing their history
  - Corporates' financial report audit data integration and visualization (Optimize manual-collecting process)
    - Journal Entry Standardization
  - Global Financial Report Standardization
    - Using XBRL
+ - Document version control management/visualization SaaS File like Google drive, Dropbox, etc.
 
 ## Digital Divide
  - Legal Data Refinition(Graph Data Structure)
