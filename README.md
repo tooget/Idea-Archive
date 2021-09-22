@@ -68,6 +68,7 @@ Archive of Ideas.
    - making device compact and moneytizing as an ad-platform
  - Accounting Principles Search Engine
 
-## Remote co-work efficiency
+## DX / Remote co-work efficiency
  - Co-work ticket platform between different companies each other (Like cross-over JIRA concept)
-
+ - Business process visualization template/services?
+   - related to master data management(MDM)
