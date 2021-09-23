@@ -70,5 +70,6 @@ Archive of Ideas.
 
 ## DX / Remote co-work efficiency
  - Co-work ticket platform between different companies each other (Like cross-over JIRA concept)
- - Business process visualization template/services?
+ - Business process visualization template/services
    - related to master data management(MDM)
+   - for the social-critical financial governance
