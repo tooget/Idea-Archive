@@ -73,3 +73,4 @@ Archive of Ideas.
  - Business process visualization template/services
    - related to master data management(MDM)
    - for the social-critical financial governance
+ - Single channel customer support integration for multiple services
