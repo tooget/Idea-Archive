@@ -59,6 +59,8 @@ Archive of Ideas.
  - Global Financial Report Standardization
    - Using XBRL
  - Document version control management/visualization SaaS File like Google drive, Dropbox, etc.
+   - Minutes managing add-on to virtual meeting software
+     - Access control by R&R is needed
 
 ## Digital Divide
  - Legal Data Refinition(Graph Data Structure)
