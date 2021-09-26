@@ -76,3 +76,5 @@ Archive of Ideas.
    - related to master data management(MDM)
    - for the social-critical financial governance
  - Single channel customer support integration for multiple services
+ - Business purpose management system
+   - for journal entry automation
