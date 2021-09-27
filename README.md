@@ -78,3 +78,4 @@ Archive of Ideas.
  - Single channel customer support integration for multiple services
  - Business purpose management system
    - for journal entry automation
+ - Business/economic analysis framework archive
