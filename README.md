@@ -79,3 +79,5 @@ Archive of Ideas.
  - Business purpose management system
    - for journal entry automation
  - Business/economic analysis framework archive
+ - (especially in Japan) Direct rent contract platform between room owners and lenders
+   - Standardization of a rental contract form
