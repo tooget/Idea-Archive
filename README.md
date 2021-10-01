@@ -83,3 +83,4 @@ Archive of Ideas.
  - (especially in Japan) Direct rent contract platform between room owners and lenders
    - Standardization of a rental contract form
  - (especially in Japan) Rental cost negotiation platform
+ - Business websites problem consulting webservice
