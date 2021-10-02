@@ -13,11 +13,11 @@ Archive of Ideas.
      - ~~[Fito - DApp Project, Prototype](https://github.com/tooget/Fito)~~
      - https://www.ustockplus.com/
    - 주주총회
-   - 배당금 배분
-   - 계약
+   - dividend distribution by smart contract
+   - corporate contracts
  - Faster PoW Hashpuzzle Solver
  - Fund Rasing
-   - P2P/Crowdfunding, P2P 스마트 컨트랙트 펀딩 등(e.g. [WeiFund](http://weifund.io))
+   - P2P/Crowdfunding, P2P smart contract funding(e.g. [WeiFund](http://weifund.io))
  - Ethereum SmartContract/DApp Ranking(e.g. [DAppRadar](https://dappradar.com), [DApp랭킹](https://www.dapp.com/ranking), [DAppStore](https://dappstore.link/rankings), [State of DApps](https://www.stateofthedapps.com/rankings))
  - Education
     - Attendance Cheking, Evaluating Students and Certificates
