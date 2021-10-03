@@ -9,11 +9,13 @@ Archive of Ideas.
    - Technical
    - Fundamental, Core algorithm
  - Corporate Governance
-   - 주식양수도 거래 / 주주명부 / 비상장 주식 투자
+   - 주식양수도 거래 / 비상장 주식 투자
      - ~~[Fito - DApp Project, Prototype](https://github.com/tooget/Fito)~~
      - https://www.ustockplus.com/
-   - 주주총회
-   - dividend distribution by smart contract
+   - Shareholders event management by smart contract
+     - general meeting of shareholders
+     - shareholders list management
+     - dividend distribution
    - corporate contracts
  - Faster PoW Hashpuzzle Solver
  - Fund Rasing
