@@ -9,7 +9,7 @@ Archive of Ideas.
    - Technical
    - Fundamental, Core algorithm
  - Corporate Governance
-   - 주식양수도 거래 / 비상장 주식 투자
+   - Unlisted share transaction
      - ~~[Fito - DApp Project, Prototype](https://github.com/tooget/Fito)~~
      - https://www.ustockplus.com/
    - Shareholders event management by smart contract
