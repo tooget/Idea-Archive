@@ -26,6 +26,7 @@ Archive of Ideas.
  - Election
  - Media Platform without fake news/replies
  - Donation
+ - Investable coin/staking target listing
 
 ## RPA
  - Data Auto Searching & Refinition with Excel
