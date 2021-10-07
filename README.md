@@ -15,7 +15,7 @@ Archive of Ideas.
    - Shareholders event management by smart contract
      - general meeting of shareholders
      - shareholders list management
-     - dividend distribution
+     - dividend distribution with token
    - corporate contracts
  - Faster PoW Hashpuzzle Solver
  - Fund Rasing
