@@ -53,7 +53,7 @@ Archive of Ideas.
  - API SaaS for Monte Carlo simulation valuation
    - Web-based/Cloud-based Asset Pricing Service
    - Web-based/Cloud-based Insurerance Pricing Service
-
+   - with private network like AWS DirectConnect, Azure ExpressRoute, etc
 ## Reputation/Trust Visualization
  - Lawyer/Legal Office Categorization and tracing their history
  - Medical Doctor/Hospital Categorization and tracing their history
