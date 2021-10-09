@@ -29,8 +29,8 @@ Archive of Ideas.
  - Investable coin/staking target listing
 
 ## RPA
- - Data Auto Searching & Refinition with Excel
-   - Searching autumation from multiple search engines 
+ - ~~Data Auto Searching & Refinition with Excel~~
+ - Searching autumation from multiple search engines (legal issues?)
  - Web-based General Attendance System
    - [SmartCheck](https://github.com/yunsu246/simple-smart-check)
  - Standard 3rd Party Web Application of Applying process for an Organization
