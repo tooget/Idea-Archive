@@ -36,7 +36,7 @@ Archive of Ideas.
  - Standard 3rd Party Web Application of Applying process for an Organization
 
 ## Payments
- - Auto-detecting goods and tagging direct payment on SNS picture/touch. (e.g. a payment system like coupang, aliexpress)
+ - ~~Auto-detecting goods and tagging direct payment on SNS picture/touch. (e.g. a payment system like coupang, aliexpress)~~ Instagram has realized.
 
 ## Resources Detection
  - Searching and Filtering Valuable Domains
