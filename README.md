@@ -60,7 +60,7 @@ Archive of Ideas.
  - Corporates' financial report audit data integration and visualization (Optimize manual-collecting process)
    - Journal Entry Standardization
  - Global Financial Report Standardization
-   - Using XBRL
+   - Using XBRL as a protocol?
  - Document version control management/visualization SaaS File like Google drive, Dropbox, etc.
    - Minutes managing add-on to virtual meeting software
      - Access control by R&R is needed
@@ -87,3 +87,4 @@ Archive of Ideas.
    - Standardization of a rental contract form
  - (especially in Japan) Rental cost negotiation platform
  - Business websites problem consulting webservice
+
