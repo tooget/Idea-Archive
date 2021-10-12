@@ -27,6 +27,7 @@ Archive of Ideas.
  - Media Platform without fake news/replies
  - Donation
  - Investable coin/staking target listing
+ - Relation visualization among blockchains and wallets
 
 ## RPA
  - ~~Data Auto Searching & Refinition with Excel~~
