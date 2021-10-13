@@ -16,13 +16,11 @@ Archive of Ideas.
      - general meeting of shareholders
      - shareholders list management
      - dividend distribution with token
-   - corporate contracts
+   - Corporate contracts
  - Faster PoW Hashpuzzle Solver
- - Fund Rasing
-   - P2P/Crowdfunding, P2P smart contract funding(e.g. [WeiFund](http://weifund.io))
+ - P2P/Crowdfunding, P2P smart contract funding(e.g. [WeiFund](http://weifund.io))
  - Ethereum SmartContract/DApp Ranking(e.g. [DAppRadar](https://dappradar.com), [DApp랭킹](https://www.dapp.com/ranking), [DAppStore](https://dappstore.link/rankings), [State of DApps](https://www.stateofthedapps.com/rankings))
- - Education
-    - Attendance Cheking, Evaluating Students and Certificates
+ - Attendance Cheking, Evaluating Students and Certificates
  - Election
  - Media Platform without fake news/replies
  - Donation
@@ -42,19 +40,18 @@ Archive of Ideas.
 ## Resources Detection
  - Searching and Filtering Valuable Domains
  - SNS Personal Classification with users' metadata(feeds, texts, photos(e.g. how many peoples are taken), hashtags) to Estimate their Purchasing power
- 
- 
+
 ## Platform Metadata Integration
  - Personal Asset(e.g. posting, blogs, comments, reviews, opinions, etg) Integration
  - Personal Data Metricality
  - MyData agreement integration dashboard service for general internet services
-
 
 ## Financial Valuation
  - API SaaS for Monte Carlo simulation valuation
    - Web-based/Cloud-based Asset Pricing Service
    - Web-based/Cloud-based Insurerance Pricing Service
    - with private network like AWS DirectConnect, Azure ExpressRoute, etc
+
 ## Reputation/Trust Visualization
  - Lawyer/Legal Office Categorization and tracing their history
  - Medical Doctor/Hospital Categorization and tracing their history
@@ -78,14 +75,13 @@ Archive of Ideas.
 ## DX / Remote co-work efficiency
  - Co-work ticket platform between different companies each other (Like cross-over JIRA concept)
  - Business process visualization template/services
-   - related to master data management(MDM)
-   - for the social-critical financial governance
+   - Related to master data management(MDM)
+   - For the social-critical financial governance
  - Single channel customer support integration for multiple services
  - Business purpose management system
-   - for journal entry automation
+   - For journal entry automation
  - Business/economic analysis framework archive
- - (especially in Japan) Direct rent contract platform between room owners and lenders
+ - (Especially in Japan) Direct rent contract platform between room owners and lenders
    - Standardization of a rental contract form
- - (especially in Japan) Rental cost negotiation platform
+ - (Especially in Japan) Rental cost negotiation platform
  - Business websites problem consulting webservice
-
