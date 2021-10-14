@@ -47,7 +47,7 @@ Archive of Ideas.
  - MyData agreement integration dashboard service for general internet services
 
 ## Financial Valuation
- - API SaaS for Monte Carlo simulation valuation
+ - API SaaS for Monte Carlo simulation valuation on insurance fields
    - Web-based/Cloud-based Asset Pricing Service
    - Web-based/Cloud-based Insurerance Pricing Service
    - with private network like AWS DirectConnect, Azure ExpressRoute, etc
