@@ -8,7 +8,7 @@ Archive of Ideas.
  - Coin Valuation
    - Technical
    - Fundamental, Core algorithm
-   - Factor visualization
+   - [Factor visualization](https://ko.easyxplain.com/guides/55
  - Corporate Governance
    - Unlisted share transaction
      - ~~[Fito - DApp Project, Prototype](https://github.com/tooget/Fito)~~
