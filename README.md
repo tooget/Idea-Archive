@@ -7,17 +7,16 @@ Archive of Ideas.
    - Housing association accounting audit management service
  - Coin Valuation
    - Technical
-   - Fundamental, Core algorithm
-   - [Factor visualization](https://ko.easyxplain.com/guides/55)
+   - Fundamental
+     - Factor visualization(e.g. https://ko.easyxplain.com/guides/55)
+     - pricing model
  - Corporate Governance
-   - Unlisted share transaction
-     - ~~[Fito - DApp Project, Prototype](https://github.com/tooget/Fito)~~
-     - https://www.ustockplus.com/
+   - Unlisted share transaction(e.g. ~~[Fito - DApp Project, Prototype](https://github.com/tooget/Fito)~~ https://www.ustockplus.com/)
    - Shareholders event management by smart contract
      - general meeting of shareholders
      - shareholders list management
      - dividend distribution with token
-   - Corporate contracts
+   - Transaction contracts between corporates
  - Faster PoW Hashpuzzle Solver
  - P2P/Crowdfunding, P2P smart contract funding(e.g. [WeiFund](http://weifund.io))
  - Ethereum SmartContract/DApp Ranking(e.g. [DAppRadar](https://dappradar.com), [DApp랭킹](https://www.dapp.com/ranking), [DAppStore](https://dappstore.link/rankings), [State of DApps](https://www.stateofthedapps.com/rankings))
@@ -31,8 +30,7 @@ Archive of Ideas.
 ## RPA
  - ~~Data Auto Searching & Refinition with Excel~~
  - Searching autumation from multiple search engines (legal issues?)
- - Web-based General Attendance System
-   - [SmartCheck](https://github.com/yunsu246/simple-smart-check)
+ - Web-based General Attendance System(e.g. [SmartCheck](https://github.com/yunsu246/simple-smart-check))
  - Standard 3rd Party Web Application of Applying process for an Organization
 
 ## Payments
