@@ -61,6 +61,7 @@ Archive of Ideas.
  - Document version control management/visualization SaaS File like Google drive, Dropbox, etc.
    - Minutes managing add-on to virtual meeting software
      - Access control by R&R is needed
+ - (Especially in Japan) Housing management company assessment and ranking system
 
 ## Digital Divide
  - Legal Data Refinition(Graph Data Structure)
