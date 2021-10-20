@@ -9,7 +9,8 @@ Archive of Ideas.
    - Technical
    - Fundamental
      - Factor visualization(e.g. https://ko.easyxplain.com/guides/55)
-     - pricing model
+     - mathematical pricing model
+       - staking discount model like dividend
  - Corporate Governance
    - Unlisted share transaction(e.g. ~~[Fito - DApp Project, Prototype](https://github.com/tooget/Fito)~~ https://www.ustockplus.com/)
    - Shareholders event management by smart contract
