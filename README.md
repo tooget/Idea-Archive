@@ -86,6 +86,7 @@ Archive of Ideas.
    - Standardization of a rental contract form
  - (Especially in Japan) Rental cost negotiation platform
  - Business websites problem consulting webservice
+ - Co-work github organization template & managing service
 
 ## Personalized Legal Service
  - Paperwork(picture/scan) organization and legal analysis service (e.g. business card organization)
