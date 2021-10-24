@@ -89,4 +89,4 @@ Archive of Ideas.
  - Co-work github organization template & managing service
 
 ## Personalized Legal Service
- - Paperwork(picture/scan) organization and legal analysis service (e.g. business card organization)
+ - Paperwork(picture/scan) organization and legal analysis & alert service (e.g. business card organization)
