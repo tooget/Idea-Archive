@@ -40,6 +40,7 @@ Archive of Ideas.
 ## Resources Detection
  - Searching and Filtering Valuable Domains
  - SNS Personal Classification with users' metadata(feeds, texts, photos(e.g. how many peoples are taken), hashtags) to Estimate their Purchasing power
+ - Avaiable hyperlink on a specific part of Photo
 
 ## Platform Metadata Integration
  - Personal Asset(e.g. posting, blogs, comments, reviews, opinions, etg) Integration
