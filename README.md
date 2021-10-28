@@ -59,7 +59,7 @@ Archive of Ideas.
  - Corporates' financial report audit data integration and visualization (Optimize manual-collecting process)
    - Journal Entry Standardization
  - Global Financial Report Standardization
-   - Using XBRL as a protocol?
+   - Using XBRL as a protocol
  - Document version control management/visualization SaaS File like Google drive, Dropbox, etc.
    - Minutes managing add-on to virtual meeting software
      - Access control by R&R is needed
@@ -77,7 +77,7 @@ Archive of Ideas.
 ## DX / Remote co-work efficiency
  - Co-work ticket platform between different companies each other (Like cross-over JIRA concept)
  - Business process visualization template/services
-   - Related to master data management(MDM)
+   - service/guides for master data management(MDM)
    - For the social-critical financial governance
  - Single channel customer support integration for multiple services
  - Business purpose management system
