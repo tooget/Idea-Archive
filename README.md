@@ -11,6 +11,7 @@ Archive of Ideas.
      - Factor visualization(e.g. https://ko.easyxplain.com/guides/55)
      - mathematical pricing model
        - staking discount model like dividend
+   - Transaction scale dashboard & integration query api
  - Corporate Governance
    - Unlisted share transaction(e.g. ~~[Fito - DApp Project, Prototype](https://github.com/tooget/Fito)~~ https://www.ustockplus.com/)
    - Shareholders event management by smart contract
