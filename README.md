@@ -93,3 +93,7 @@ Archive of Ideas.
 ## Personalized Legal Service
  - Paperwork(picture/scan) organization and legal analysis service (e.g. business card organization)
    - alert & secretary service
+
+## Social Management Service
+ - Address personal data modification centalization on blockchain
+   - based on anti personal data management nationality
