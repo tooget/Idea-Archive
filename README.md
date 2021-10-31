@@ -95,5 +95,6 @@ Archive of Ideas.
    - alert & secretary service
 
 ## Social Management Service
- - Address personal data modification centalization on blockchain
+ - Address moving data centalization on blockchain
    - based on anti personal data management nationality
+   - as a part of social security identification
