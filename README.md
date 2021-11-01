@@ -34,6 +34,7 @@ Archive of Ideas.
  - Searching autumation from multiple search engines (legal issues?)
  - Web-based General Attendance System(e.g. [SmartCheck](https://github.com/yunsu246/simple-smart-check))
  - Standard 3rd Party Web Application of Applying process for an Organization
+ - Airdrop event integration and visualization with calendar
 
 ## Payments
  - ~~Auto-detecting goods and tagging direct payment on SNS picture/touch. (e.g. a payment system like coupang, aliexpress)~~ Instagram has realized.
