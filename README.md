@@ -28,6 +28,7 @@ Archive of Ideas.
  - Donation
  - Investable coin/staking target listing
  - Relation visualization among blockchains and wallets
+ - NFT category listing and market exchange
 
 ## RPA
  - ~~Data Auto Searching & Refinition with Excel~~
