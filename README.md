@@ -12,6 +12,7 @@ Archive of Ideas.
      - mathematical pricing model
        - staking discount model like dividend
    - Transaction scale dashboard & integration query api
+   - Social consensus
  - Corporate Governance
    - Unlisted share transaction(e.g. ~~[Fito - DApp Project, Prototype](https://github.com/tooget/Fito)~~ https://www.ustockplus.com/)
    - Shareholders event management by smart contract
