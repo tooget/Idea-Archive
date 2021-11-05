@@ -18,7 +18,7 @@ Archive of Ideas.
    - Shareholders event management by smart contract
      - general meeting of shareholders
      - shareholders list management
-     - dividend distribution with token
+     - dividend distribution by token
    - Transaction contracts between corporates
  - Faster PoW Hashpuzzle Solver
  - P2P/Crowdfunding, P2P smart contract funding(e.g. [WeiFund](http://weifund.io))
@@ -61,7 +61,7 @@ Archive of Ideas.
  - Lawyer/Legal Office Categorization and tracing their history
  - Medical Doctor/Hospital Categorization and tracing their history
  - Corporates' financial report audit data integration and visualization (Optimize manual-collecting process)
-   - Journal Entry Standardization
+   - Journal Entry Standardization (to overcome journal entry sampling limitation)
  - Global Financial Report Standardization
    - Using XBRL as a protocol
  - Document version control management/visualization SaaS File like Google drive, Dropbox, etc.
