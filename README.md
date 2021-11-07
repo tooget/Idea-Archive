@@ -30,6 +30,7 @@
  - Relation visualization among blockchains and wallets
  - NFT category listing and market exchange
  - Escrow payment api on smart contract
+ - Building and shop listing api on Blockchain
 
 ## RPA
  - ~~Data Auto Searching & Refinition with Excel~~
