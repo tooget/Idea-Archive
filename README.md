@@ -34,7 +34,7 @@
 
 ## RPA
  - ~~Data Auto Searching & Refinition with Excel~~
- - Searching autumation from multiple search engines (legal issues?)
+ - ~~Searching automation from multiple search engines (legal issues?)~~
  - Web-based General Attendance System(e.g. [SmartCheck](https://github.com/yunsu246/simple-smart-check))
  - Standard 3rd Party Web Application of Applying process for an Organization
  - Airdrop event integration and visualization with calendar
