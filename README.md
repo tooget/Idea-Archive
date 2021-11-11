@@ -31,6 +31,7 @@
  - NFT category listing and market exchange
  - Escrow payment api on smart contract
  - Building and shop listing api on Blockchain
+ - NFT minting market
 
 ## RPA
  - ~~Data Auto Searching & Refinition with Excel~~
