@@ -32,6 +32,7 @@
  - Escrow payment api on smart contract
  - Building and shop listing api on Blockchain
  - NFT minting market
+ - NFT minting matketplace platform
 
 ## RPA
  - ~~Data Auto Searching & Refinition with Excel~~
