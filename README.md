@@ -42,9 +42,6 @@
  - Standard 3rd Party Web Application of Applying process for an Organization
  - Airdrop event integration and visualization with calendar
 
-## Payments
- - ~~Auto-detecting goods and tagging direct payment on SNS picture/touch. (e.g. a payment system like coupang, aliexpress)~~ Instagram has realized.
-
 ## Resources Detection
  - Searching and Filtering Valuable Domains
  - SNS Personal Classification with users' metadata(feeds, texts, photos(e.g. how many peoples are taken), hashtags) to Estimate their Purchasing power
