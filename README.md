@@ -33,6 +33,7 @@
  - Building and shop listing api on Blockchain
  - NFT minting market
    - NFT minting matketplace platform
+   - NFT concept minting distribution
 
 
 ## RPA
