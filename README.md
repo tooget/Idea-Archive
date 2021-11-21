@@ -31,14 +31,12 @@
  - NFT category listing and market exchange
  - Escrow payment api on smart contract
  - Building and shop listing api on Blockchain
- - NFT minting market
+ - NFT market platform
    - NFT minting matketplace platform
-   - NFT concept minting distribution
-
+   - NFT concept minting auction
 
 ## RPA
- - ~~Data Auto Searching & Refinition with Excel~~
- - ~~Searching automation from multiple search engines (legal issues?)~~
+ - Searching automation from multiple search engines (legal issues?)
  - Web-based General Attendance System(e.g. [SmartCheck](https://github.com/yunsu246/simple-smart-check))
  - Standard 3rd Party Web Application of Applying process for an Organization
  - Airdrop event integration and visualization with calendar
