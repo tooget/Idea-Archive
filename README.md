@@ -23,6 +23,8 @@
  - P2P/Crowdfunding, P2P smart contract funding(e.g. [WeiFund](http://weifund.io))
  - Ethereum SmartContract/DApp Ranking(e.g. [DAppRadar](https://dappradar.com), [DApp랭킹](https://www.dapp.com/ranking), [DAppStore](https://dappstore.link/rankings), [State of DApps](https://www.stateofthedapps.com/rankings))
  - Attendance Cheking, Evaluating Students and Certificates
+ - KYC
+ - Global Vaccinated verification
  - Election
  - Media Platform without fake news/replies
  - Donation
