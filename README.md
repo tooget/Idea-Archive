@@ -38,6 +38,7 @@
    - NFT concept minting auction
      - Property of Moon: https://lunarregistry.com/, https://lunafund.io/
      - Galaxy and stars
+ - Coin account tracing integration service
 
 ## RPA
  - Searching automation from multiple search engines (legal issues?)
