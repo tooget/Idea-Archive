@@ -48,13 +48,13 @@
 
 ## Resources Detection
  - Searching and Filtering Valuable Domains
- - SNS Personal Classification with users' metadata(feeds, texts, photos(e.g. how many peoples are taken), hashtags) to Estimate their Purchasing power
+ - SNS Personal Classification with users' metadata(feeds, texts, photos(e.g. how many people are taken), hashtags) to estimate their purchasing power
  - Hyperlink available on a specific part of Photo
 
 ## Platform Metadata Integration
  - Personal Asset(e.g. posting, blogs, comments, reviews, opinions, etg) Integration
  - Personal Data Metricality
- - MyData agreement integration dashboard service for general internet services
+ - MyData agreement integration dashboard SaaS for general internet services B2B
 
 ## Financial Valuation
  - API SaaS for Monte Carlo simulation valuation on insurance fields
