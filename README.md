@@ -43,7 +43,7 @@
    - Transaction contracts between corporates
 
 ## RPA
- - Searching automation from multiple search engines (legal issues?)
+ - Push(mail/sns) automation for searching keywords from multiple search engines
  - Web-based General Attendance System(e.g. [SmartCheck](https://github.com/yunsu246/simple-smart-check))
  - Standard 3rd Party Web Application of Applying process for an Organization
  - Airdrop event integration and visualization with calendar
