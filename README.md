@@ -17,6 +17,7 @@
  - Investable coin/staking target listing
  - Relation visualization among blockchains and wallets
  - NFT category listing and market exchange
+ - Wallet address tracer for IRS or others
 
 ## DApp on smart contract blockchain
  - NFT market platform
