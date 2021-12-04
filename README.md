@@ -110,3 +110,6 @@
  - Address moving data centalization on blockchain
    - based on anti personal data management nationality
    - as a part of social security identification
+
+## Data Management
+ - Master Data Management with DDL version control and value validation
