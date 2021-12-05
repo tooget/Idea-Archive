@@ -102,9 +102,10 @@
  - Business websites problem consulting webservice
  - Co-work github organization template & managing service
 
-## Personalized Legal Service
- - Paperwork(picture/scan) organization and legal analysis service (e.g. business card organization)
+## Personalized Service
+ - Legal Paperwork(picture/scan) organization and legal analysis service (e.g. business card organization)
    - alert & secretary service
+ - Integrated infraservice contract and cost management
 
 ## Social Management Service
  - Address moving data centalization on blockchain
