@@ -42,6 +42,7 @@
      - shareholders list management
      - dividend distribution by token
    - Transaction contracts between corporates
+ - Wallet address transaction distribution for untraceability
 
 ## RPA
  - Push(mail/sns) automation for searching keywords from multiple search engines
