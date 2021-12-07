@@ -89,7 +89,7 @@
  - Government policy integration/digital divide and executing dashboard/sns concept sharing platform
 
 ## DX / Remote co-work efficiency
- - Co-work ticket platform between different companies each other (Like cross-over JIRA concept)
+ - Co-work task/ticket platform between different companies each other (Like cross-over JIRA concept)
  - Business process visualization template/services
    - service/guides for master data management(MDM)
    - For the social-critical financial governance
