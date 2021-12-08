@@ -114,4 +114,4 @@
    - as a part of social security identification
 
 ## Data Management
- - Master Data Management with DDL version control and value validation
+ - Master Data Management with git-based DDL version control and value validation
