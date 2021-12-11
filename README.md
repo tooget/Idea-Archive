@@ -118,4 +118,4 @@
 
 ### Basic requirements for For B2B/Enterprise services
  - Role based access control and policy editing
- 
+   - combine(person, organization, function, data)
