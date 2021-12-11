@@ -115,3 +115,7 @@
 
 ## Data Management
  - Master Data Management with git-based DDL version control and value validation
+
+### Basic requirements for For B2B/Enterprise services
+ - Role based access control and policy editing
+ 
