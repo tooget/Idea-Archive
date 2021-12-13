@@ -94,7 +94,7 @@
    - For the social-critical financial governance
  - Single channel customer support integration for multiple services
  - Business purpose management system
-   - For journal entry automation
+   - related to journal entry automation
  - Business/economic analysis framework archive
  - (Especially in Japan) Direct rent contract platform between room owners and lenders
    - Standardization of a rental contract form
