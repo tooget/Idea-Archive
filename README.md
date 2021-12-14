@@ -43,6 +43,7 @@
      - dividend distribution by token
    - Transaction contracts between corporates
  - Wallet address transaction distribution for untraceability
+ - Metaverse nft goods shopping mall api platform
 
 ## RPA
  - Push(mail/sns) automation for searching keywords from multiple search engines
