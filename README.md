@@ -108,7 +108,7 @@
  - Legal Paperwork(picture/scan) organization and legal analysis service (e.g. business card organization)
    - alert & secretary service
  - Integrated infraservice contract and cost management
- - SNS monthly alert of registered real eastate title search like changes of morgage amount
+ - SNS monthly alert of registered real eastate title search like changes of morgage amount or legal rights
 
 ## Social Management Service
  - Address moving data centalization on blockchain
