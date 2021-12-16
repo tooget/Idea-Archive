@@ -114,6 +114,7 @@
  - Address moving data centalization on blockchain
    - based on anti personal data management nationality
    - as a part of social security identification
+ - Qalification check before applying Korean apartment subscription process
 
 ## Data Management
  - Master Data Management with git-based DDL version control and value validation
