@@ -109,12 +109,13 @@
    - alert & secretary service
  - Integrated infraservice contract and cost management
  - SNS monthly alert of registered real eastate title search like changes of morgage amount or legal rights
+   - Contact the house owner and check the reason instead
 
 ## Social Management Service
  - Address moving data centalization on blockchain
    - based on anti personal data management nationality
    - as a part of social security identification
- - Qalification check before applying Korean apartment subscription process
+ - Qualification check before applying Korean apartment subscription process
 
 ## Data Management
  - Master Data Management with git-based DDL version control and value validation
