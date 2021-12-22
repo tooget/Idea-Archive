@@ -18,6 +18,7 @@
  - Relation visualization among blockchains and wallets
  - NFT category listing and market exchange
  - Wallet address tracer for IRS or others
+ - Listed coin risk factors and rating platform
 
 ## DApp on smart contract blockchain
  - NFT market platform
