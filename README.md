@@ -117,6 +117,7 @@
    - based on anti personal data management nationality
    - as a part of social security identification
  - Qualification check before applying Korean apartment subscription process
+ - OpenAPI lists and those meta key version control
 
 ## Data Management
  - Master Data Management with git-based DDL version control and value validation
