@@ -29,6 +29,7 @@
  - Coin account tracing integration service
  - Building and shop listing api on Blockchain
  - Escrow payment api on smart contract
+   - like XRP trustline
  - Attendance Cheking, Evaluating Students and Certificates
  - KYC
  - Global Vaccinated verification
