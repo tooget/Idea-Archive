@@ -19,6 +19,7 @@
  - NFT category listing and market exchange
  - Wallet address tracer for IRS or others
  - Listed coin risk factors and rating platform
+ - Airdrop event integration and visualization with calendar
 
 ## DApp on smart contract blockchain
  - NFT market platform
@@ -51,7 +52,6 @@
  - Push(mail/sns) automation for searching keywords from multiple search engines
  - Web-based General Attendance System(e.g. [SmartCheck](https://github.com/yunsu246/simple-smart-check))
  - Standard 3rd Party Web Application of Applying process for an Organization
- - Airdrop event integration and visualization with calendar
 
 ## Resources Detection
  - Searching and Filtering Valuable Domains
