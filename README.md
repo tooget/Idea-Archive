@@ -26,7 +26,7 @@
    - NFT minting matketplace platform
    - NFT concept minting auction
      - Property of Moon: https://lunarregistry.com/, https://lunafund.io/
-     - Galaxy and stars
+     - Any items: Galaxy and stars, Real estate of Mars
  - Coin account tracing integration service
  - Building and shop listing api on Blockchain
  - Escrow payment api on smart contract
