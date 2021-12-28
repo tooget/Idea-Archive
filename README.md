@@ -27,6 +27,7 @@
    - NFT concept minting auction
      - Property of Moon: https://lunarregistry.com/, https://lunafund.io/
      - Any items: Galaxy and stars, Real estate of Mars
+   - NFT minting authorization for the possibility of abnormal transaction
  - Coin account tracing integration service
  - Building and shop listing api on Blockchain
  - Escrow payment api on smart contract
