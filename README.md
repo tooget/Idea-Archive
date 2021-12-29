@@ -122,7 +122,7 @@
  - OpenAPI lists and those meta key version control
 
 ## Data Management
- - Master Data Management with git-based DDL version control and value validation
+ - Master Data Management with git-based DDL version control and data type/value validation
 
 ### Basic requirements for For B2B/Enterprise services
  - Role based access control and policy editing
