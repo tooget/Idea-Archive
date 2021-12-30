@@ -65,9 +65,11 @@
  - MyData agreement integration dashboard SaaS for general internet services B2B
 
 ## Financial Valuation
- - API SaaS for Monte Carlo simulation valuation on insurance fields
-   - Web-based/Cloud-based Asset Pricing Service
-   - Web-based/Cloud-based Insurerance Pricing Service
+ - Web-based/Cloud-based API SaaS for Monte Carlo simulation valuation on insurance fields
+   - Fixed income asset pricing
+   - Equity asset pricing
+   - Derivatives pricing
+   - Insurerance pricing
    - Based-on private network like AWS DirectConnect, Azure ExpressRoute, etc
 
 ## Reputation/Trust Visualization
