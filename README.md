@@ -90,7 +90,8 @@
    - using cloud satellite service
    - making device compact and moneytizing as an ad-platform
  - Accounting Principles Search Engine
-   - Journal Entry Examples/Search Engine
+   - Journal entry example archive
+   - Journal entry search engine
  - Government policy integration/digital divide and executing dashboard/sns concept sharing platform
 
 ## DX / Remote co-work efficiency
