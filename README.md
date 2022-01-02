@@ -20,6 +20,7 @@
  - Wallet address tracer for IRS or others
  - Listed coin risk factors and rating platform
  - Airdrop event integration and visualization with calendar
+ - PoX listup
 
 ## DApp on smart contract blockchain
  - NFT market platform
