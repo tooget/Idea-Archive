@@ -12,7 +12,6 @@
        - staking discount model like dividend
    - Transaction scale dashboard & integration query api
    - Social consensus based on amount of investment, number of MOU, number of M&A, etc
- - Faster PoW Hashpuzzle Solver
  - SmartContract/DApp Ranking(e.g. [DAppRadar](https://dappradar.com), [DApp랭킹](https://www.dapp.com/ranking), [DAppStore](https://dappstore.link/rankings), [State of DApps](https://www.stateofthedapps.com/rankings))
  - Investable coin/staking target listing
  - Relation visualization among blockchains and wallets
