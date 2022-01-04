@@ -20,6 +20,7 @@
  - Listed coin risk factors and rating platform
  - Airdrop event integration and visualization with calendar
  - PoX listup
+ - Blockchain transaction checker
 
 ## DApp on smart contract blockchain
  - NFT market platform
