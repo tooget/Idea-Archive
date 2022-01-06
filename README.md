@@ -21,6 +21,7 @@
  - Airdrop event integration and visualization with calendar
  - PoX listup
  - Blockchain transaction checker
+ - Coin business description
 
 ## DApp on smart contract blockchain
  - NFT market platform
