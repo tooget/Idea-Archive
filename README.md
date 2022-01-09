@@ -92,6 +92,8 @@
 ## Digital Divide
  - Legal Data Refinition(Graph Data Structure)
    - [Openlaw - A legal data processing framework open-source project for data pipeline, search, analysis and NLP](https://github.com/tooget/Openlaw)
+   - In global
+   - Legislation/patent keyword expectation
  - Free cellphone
    - using cloud satellite service
    - making device compact and moneytizing as an ad-platform
