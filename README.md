@@ -24,7 +24,7 @@
    - Listed coin risk factors and rating platform
    - Airdrop event integration and visualization with calendar
    - Transaction checking sites
- - Blockchain transaction checker
+   - Blockchain transaction checker
 
 
 ## DApp on smart contract blockchain
