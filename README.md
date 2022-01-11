@@ -17,15 +17,14 @@
  - Investable coin/staking target listing
  - Relation visualization among blockchains and wallets
  - NFT category listing and market exchange
- - Wallet address tracer for IRS or others
- - Listup
+ - Integrated List
    - PoX of each coin
    - Coin business description
    - Listed coin risk factors and rating platform
    - Airdrop event integration and visualization with calendar
    - Transaction checking sites
    - Blockchain transaction checker
-
+   - Wallet address tracer for IRS or others
 
 ## DApp on smart contract blockchain
  - NFT market platform
