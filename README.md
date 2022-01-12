@@ -46,7 +46,7 @@
  - P2P/Crowdfunding, P2P smart contract funding(e.g. [WeiFund](http://weifund.io))
  - Corporate Governance
    - Pre-IPO share transaction(e.g. ~~[Fito - DApp Project, Prototype](https://github.com/tooget/Fito)~~ https://www.ustockplus.com/)
-   - Shareholders event management by smart contract
+   - Shareholders event management by smart contract (related to https://legal.zuzu.network)
      - general meeting of shareholders
      - shareholders list management
      - dividend distribution by token
