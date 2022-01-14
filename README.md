@@ -25,6 +25,7 @@
    - Transaction checking sites
    - Blockchain transaction checker
    - Wallet address tracer for IRS or others
+ - Coin exchange without account authentication and trading with the physical wallets face to face
 
 ## DApp on smart contract blockchain
  - NFT market platform
