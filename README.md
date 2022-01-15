@@ -133,6 +133,10 @@
  - OpenAPI lists and those meta key version control
  - Private blockchain framework for public services
 
+## Hardware devices
+ - Portable bacteria detector
+ - Portable wireless signal detector for personal security
+
 ## Data Management
  - Master Data Management with git-based DDL version control and data type/value validation
 
