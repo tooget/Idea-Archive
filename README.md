@@ -30,6 +30,7 @@
 ## DApp on smart contract blockchain
  - NFT market platform
    - NFT minting matketplace platform
+     - for artists
    - NFT concept minting auction
      - Property of Moon: https://lunarregistry.com/, https://lunafund.io/
      - Any items: Galaxy and stars, Real estate of Mars, Virtual real estate of every country
