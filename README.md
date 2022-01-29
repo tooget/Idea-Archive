@@ -142,6 +142,9 @@
 ## Data Management
  - Master Data Management with git-based DDL version control and data type/value validation
 
+## B2B
+ - Patent/legal insureance for MCN and their creators/influencers
+
 ### Basic requirements for For B2B/Enterprise services
  - Role based access control and policy editing
    - combine(person, organization, function, data)
