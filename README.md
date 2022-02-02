@@ -125,7 +125,7 @@
    - alert & secretary service
    - required: secured, paper delivery
  - Integrated infraservice contract and cost management
- - SNS monthly alert of registered real eastate title search like changes of morgage amount or legal rights
+ - **SNS monthly alert of registered real eastate title search like changes of morgage amount or legal rights**
    - Contact the house owner and check the reason instead
 
 ## Social Management Service
