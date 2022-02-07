@@ -128,6 +128,7 @@
  - **SNS monthly alert of registered real eastate title search like changes of morgage amount or legal rights**
    - Contact the house owner and check the reason instead
    - Title alert can extends to Title insurance, Title guarantee
+   - (Optional) Title contents diff and history
 
 ## Social Management Service
  - Address moving data centalization on blockchain
