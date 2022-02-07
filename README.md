@@ -126,7 +126,8 @@
    - required: secured, paper delivery
  - Integrated infraservice contract and cost management
  - **SNS monthly alert of registered real eastate title search like changes of morgage amount or legal rights**
-   - Contact the house owner and check the reason instead (extend to Title insurance, Title guarantee)
+   - Contact the house owner and check the reason instead
+   - Title alert can extends to Title insurance, Title guarantee
 
 ## Social Management Service
  - Address moving data centalization on blockchain
