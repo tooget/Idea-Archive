@@ -137,6 +137,7 @@
  - Qualification check before applying Korean apartment subscription process
  - OpenAPI lists and those meta key version control
  - Private blockchain framework for public services
+   - e.g. Hyperledger as a service
 
 ## Hardware devices
  - Portable bacteria detector
