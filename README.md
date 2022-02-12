@@ -129,6 +129,7 @@
    - Contact the house owner and check the reason instead
    - Title alert can extends to Title insurance, Title guarantee
    - (Optional) Title contents diff and history
+   - (Optional) Contract renewal alert
 
 ## Social Management Service
  - Address moving data centalization on blockchain
