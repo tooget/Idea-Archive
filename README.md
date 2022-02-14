@@ -143,6 +143,7 @@
 ## Hardware devices
  - Portable bacteria detector
  - Portable wireless signal detector for personal security
+ - Rasberry Pi Pico/Microchip Cluster for machine learning on early-stage services
 
 ## Data Management
  - Master Data Management with git-based DDL version control and data type/value validation
