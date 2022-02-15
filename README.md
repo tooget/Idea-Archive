@@ -83,8 +83,9 @@
 ## Reputation/Trust Visualization
  - Lawyer/Legal Office Categorization and tracing their history
  - Medical Doctor/Hospital Categorization and tracing their history
- - Corporates' financial report audit data integration and visualization (Optimize manual-collecting process)
+ - Improving auditing process efficiency for Corporates' financial report on the auditors'(CPA/Governing orgnization) view
    - Journal Entry Standardization (to overcome journal entry sampling limitation)
+   - e.g. data integration, visualization, optimizing manual-collecting process
  - Global Financial Report Standardization
    - Using XBRL as a protocol
  - Document version control management/visualization SaaS File like Google drive, Dropbox, etc.
