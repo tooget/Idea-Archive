@@ -85,6 +85,7 @@
  - Medical Doctor/Hospital Categorization and tracing their history
  - Improving auditing process efficiency for Corporates' financial report on the auditors'(CPA/Governing orgnization) view
    - Journal Entry Standardization (to overcome journal entry sampling limitation)
+     - integrating formats of SAP, Douzone(for South Korea)
    - e.g. data integration, visualization, optimizing manual-collecting process
  - Global Financial Report Standardization
    - Using XBRL as a protocol
