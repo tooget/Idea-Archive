@@ -1,1 +1,7 @@
 theme: jekyll-theme-minimal
+
+utterances:
+  repo: "tooget/Idea-Archive"
+  issue-term: "Idea"
+  label: "utteranc.es"
+  theme: "github-dark"
