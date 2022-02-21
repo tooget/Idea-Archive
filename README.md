@@ -98,6 +98,7 @@
    - [Openlaw - A legal data processing framework open-source project for data pipeline, search, analysis and NLP](https://github.com/tooget/Openlaw)
    - In global
    - Legislation/patent keyword expectation
+   - structuring like digital garden
  - Free cellphone
    - using cloud satellite service
    - making device compact and moneytizing as an ad-platform
