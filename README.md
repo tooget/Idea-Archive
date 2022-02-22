@@ -157,6 +157,7 @@
 
 ## Community
  - Business idea branstorming & discussion community
+   - Business idea transaction platform
 
 ### Basic requirements for For B2B/Enterprise services
  - Role based access control and policy editing
