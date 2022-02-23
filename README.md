@@ -154,6 +154,7 @@
 
 ## B2B
  - Patent/legal insureance for MCN and their creators/influencers
+ - API marketplace SaaS after data injection
 
 ## Community
  - Business idea branstorming & discussion community
