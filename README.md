@@ -148,6 +148,7 @@
  - Portable wireless signal detector for personal security
  - Rasberry Pi Pico/Microchip Cluster for machine learning on early-stage services
  - Groccery store customers' moving path and item placement optimization to maxizmize sales with movement sensors of Rasberry Pi Pico
+ - Bike customizing simulation webservice
 
 ## Data Management
  - Master Data Management with git-based DDL version control and data type/value validation
@@ -159,6 +160,7 @@
 ## Community
  - Business idea branstorming & discussion community
    - Business idea transaction platform
+ - Mental illness info integration & communication
 
 ## Career
  - USCPA online academy
