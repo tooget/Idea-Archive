@@ -56,6 +56,8 @@
    - Transaction contracts between corporates
  - Wallet address transaction distribution for untraceability
  - Metaverse nft goods shopping mall api platform
+ - Wallet nimonic management service
+ - Personel coin trading/transaction history management service
 
 ## RPA
  - Push(mail/sns) automation for searching keywords from multiple search engines
@@ -79,6 +81,7 @@
    - Derivatives pricing
    - Insurerance pricing
    - Based-on private network like AWS DirectConnect, Azure ExpressRoute, etc
+ - Purchasing Power Parity(PPP) visualization service(application) to alert inflation
 
 ## Reputation/Trust Visualization
  - Lawyer/Legal Office Categorization and tracing their history
