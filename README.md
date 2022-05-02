@@ -27,7 +27,9 @@
    - Wallet address tracer for IRS or others
    - How-to-validate blocks with open sources
  - Coin exchange without account authentication and trading with the physical wallets face to face
- - Webservice for creating each NFT with pay
+ - Webservice for creating own NFTs with traditional payments
+   - People can create their own NFTs which belongs to personal wallet
+   - People can sell NFTs via Opensea
 
 ## DApp on smart contract blockchain
  - NFT market platform
