@@ -166,12 +166,14 @@
 ## B2B
  - Patent/legal insureance for MCN and their creators/influencers
  - API marketplace SaaS after data injection
+ - Marketing agency marketplace webservice
 
 ## Community
  - Business idea branstorming & discussion community
    - Business idea transaction platform
  - Mental illness info integration & communication
  - GPS Location/Push alert based Q&A Application to ask something nearhere
+ - Community hosts communication platform
 
 ## Career
  - USCPA online academy
