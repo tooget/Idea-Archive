@@ -174,6 +174,7 @@
  - Mental illness info integration & communication
  - GPS Location/Push alert based Q&A Application to ask something nearhere
  - Community hosts communication platform
+ - Cross country survey request platform
 
 ## Career
  - USCPA online academy
