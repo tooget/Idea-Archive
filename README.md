@@ -175,6 +175,7 @@
  - GPS Location/Push alert based Q&A Application to ask something nearhere
  - Community hosts communication platform
  - Cross country survey request platform
+ - Personality guarantee service ranking site instead of family
 
 ## Career
  - USCPA online academy
