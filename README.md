@@ -85,6 +85,7 @@
    - Insurerance pricing
    - Based-on private network like AWS DirectConnect, Azure ExpressRoute, etc
  - Purchasing Power Parity(PPP) visualization service(application) to alert inflation
+ - Realestate system risk factor API/modeling like earthquake frequency
 
 ## Reputation/Trust Visualization
  - Lawyer/Legal Office Categorization and tracing their history
