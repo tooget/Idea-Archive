@@ -183,9 +183,6 @@
  - Price comparison webservice for health certificate
  - VISA application dashboard(Status, How-to, etc)
 
-## Merchandise
- - Japanese toilet washing gel and powder
-
 ### Basic requirements for For B2B/Enterprise services
  - Role based access control and policy editing
    - combine(person, organization, function, data)
