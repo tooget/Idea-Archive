@@ -99,6 +99,7 @@
  - Document version control management/visualization SaaS File like Google drive, Dropbox, etc.
    - Minutes managing add-on to virtual meeting software
  - (Especially in Japan) Housing management company assessment and ranking system
+ - Promotion/Event Transaction Certification and Signiture Service for business
 
 ## Digital Divide
  - Legal Data Refinition(Graph Data Structure)
