@@ -8,12 +8,12 @@
  - PMBOKガイド
  - PMBOKガイド記載以外のPM知識
 ## 出題内容
- - 4宅方式
+ - 4択方式
  - 4時間 200問
    - 採点 175問 / 非採点 25問
  - 年間3回まで受験可
  - 出題対象
-   - Initiazting、立上げ：13%
+   - Initiating、立上げ：13%
    - Planning、計画：24%
    - Executing、実行：31%
    - Monitoring & Controlling、監視・コントロール：25%
